@@ -56,3 +56,17 @@ Open the notebook in Colab, mount your Google Drive, upload the PlantVillage fol
 Running the notebook produces:
 - `model_comparison_summary.csv` — accuracy / macro F1 per model
 - `confusion_matrix_<model>.png` — one confusion matrix per trained model
+
+#Requirements
+
+torch
+torchvision
+timm
+imagehash
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
+kaggle
